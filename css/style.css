@@ -1,0 +1,53 @@
+.main{background-image:url("../images/background.png"); background-repeat:repeat}
+
+
+
+body{color: #030077;}
+
+
+.textTransparent
+{
+background-color:transparent;
+	color:#000000;
+}
+
+
+
+.textBorder
+{
+border-color:#00BFFF;
+border-width:1px;
+border-style:solid;
+}
+
+
+
+.vcenter 
+{
+display: inline-block;
+vertical-align: middle;float: none;top:200px;
+}
+
+
+.table-hover > tbody > tr:hover {
+  background-color: transparent;
+}
+
+
+.divs{ 
+box-shadow: 7px 6px 16px #333333; 
+-webkit-box-shadow: 7px 6px 16px #333333; 
+-moz-box-shadow: 7px 6px 16px #333333; 
+}
+
+.borders{  border:'3px'; border-style: solid;
+    border-color: transparent;}
+
+a:link{ color: #00B7CE;}
+a:visited { color: #00B7CE;}
+a:hover { color: #0CE6FF;}
+a:active { color: #00B7CE;}
+
+.error{
+color:#FF0000;
+}
